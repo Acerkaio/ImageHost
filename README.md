@@ -1,2 +1,2 @@
 # ImageHost
-ImageHost
+My ImageHost
